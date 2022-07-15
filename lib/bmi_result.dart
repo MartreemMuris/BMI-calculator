@@ -34,6 +34,7 @@ class BmiResult extends StatelessWidget {
             getText('AGE : $age years'),
             getText('HEIGHT : ${height.round()} CM'),
             getText('Result : $result'),
+            
           ],
         ),
       ),
